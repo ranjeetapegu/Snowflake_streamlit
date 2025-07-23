@@ -1,0 +1,1 @@
+This project is a simple Streamlit app running inside Snowflake that showcases the power of Cortex AI Images. It lets you upload or generate images and ask questions about them using natural language. The app uses Snowflake Cortex to analyze the image and provide intelligent responses — all powered natively within Snowflake.
